@@ -3,8 +3,8 @@ import React from "react";
 import Layer3 from "../../Components/Home/Layer3";
 import Layer4 from "../../Components/Home/Layer4";
 
-import Screen1 from "../../Components/Home/Screen1";
-import Screen2 from "../../Components/Home/Screen2";
+import Screen1 from "../../Components/Home/Layer1";
+import Screen2 from "../../Components/Home/Layer2";
 
 export default function LandingPage() {
   return (

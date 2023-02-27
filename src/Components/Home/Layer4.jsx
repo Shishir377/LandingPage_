@@ -5,7 +5,7 @@ import support from "../../Assets/images/support.svg";
 import Teams from "../../Assets/images/Teams.svg";
 import Payment2 from "../../Assets/images/payment2.svg";
 import background from "../../Assets/images/background.svg";
-import { Cards } from "./Screen2";
+import { Cards } from "./Layer2";
 export default function Layer4() {
   return (
     <>
